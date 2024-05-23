@@ -73,4 +73,9 @@ main{
     border-radius: 1rem;
     text-decoration: none;
     font-weight: 500;
+    cursor: pointer;
+}
+.links a:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 12%);
 }
